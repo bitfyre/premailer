@@ -101,6 +101,8 @@ class Premailer
       '-premailer-height' => 'height',
       '-premailer-cellpadding' => 'cellpadding',
       '-premailer-cellspacing' => 'cellspacing',
+      '-premailer-align' => 'align',
+      '-premailer-valign' => 'align'
     },
     'tr' => {
       'text-align' => 'align',
